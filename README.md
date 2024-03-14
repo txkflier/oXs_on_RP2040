@@ -54,7 +54,7 @@ Note: when a MPU6050 is used (to improve vario reactivity, stabilize the plane a
 
 ## -------  Hardware -----------------
 
-This project requires a board with a RP2040 processor (like the raspberry pi Pico).
+This project requires a board with a RP2040 processor (like the Raspberry Pi Pico).
 
 A better alternative is the RP2040-Zero or the RP2040-TINY (both have the same processor but smaller board)
 
